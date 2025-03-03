@@ -1,0 +1,23 @@
+{
+  "name": "playwrite_automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.2.0",
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.5.4",
+    "allure-commandline": "^2.32.2",
+    "allure-cucumberjs": "^3.2.0",
+    "allure-playwright": "^3.2.0",
+    "cucumber-html-reporter": "^6.0.0",
+    "dotenv": "^16.4.7",
+    "playwright": "^1.47.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2"
+  }
+}
